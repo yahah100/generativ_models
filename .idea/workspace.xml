@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f694d00-7cd7-45e3-9fad-3a28a6d0a538" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercise_02/exercise02_grey.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise_01/.ipynb_checkpoints/exercise01-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise_01/README.md.save" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise_01/exercises01.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise_02/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise_02/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise_02/exercise02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_02/exercise02.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise_02/exercises02.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise_02/genereate_grey_5class_images.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_02/genereate_grey_5class_images.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise_02/samples.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise_03/exercise02.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise_03/exercise02_grey.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise_05/yannik_hahn_5.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise_07/exercise07.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_07/exercise07.ipynb" afterDir="false" />
+    <list default="true" id="9f694d00-7cd7-45e3-9fad-3a28a6d0a538" name="Default Changelist" comment="fixed .gitignore and moved exercise02">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583765245018</updated>
-      <workItem from="1583765246301" duration="472000" />
+      <workItem from="1583765246301" duration="2136000" />
     </task>
     <task id="LOCAL-00001" summary="added ex7 readme">
       <created>1583765466195</created>
@@ -57,7 +44,28 @@
       <option name="project" value="LOCAL" />
       <updated>1583765466195</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed .gitignore and moved exercise02">
+      <created>1583765755634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583765755635</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed .gitignore">
+      <created>1583767400016</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583767400016</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed exercise_06 with exercise07.ipynb">
+      <created>1583767446173</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583767446173</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,16 +73,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added ex7 readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="added ex7 readme" />
+    <MESSAGE value="fixed .gitignore and moved exercise02" />
+    <MESSAGE value="fixed .gitignore" />
+    <MESSAGE value="fixed exercise_06 with exercise07.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed exercise_06 with exercise07.ipynb" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="519" y="97" width="942" height="919" key="CommitChangelistDialog2" timestamp="1583765466055">
+    <state x="519" y="97" width="942" height="919" key="CommitChangelistDialog2" timestamp="1583767445490">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="519" y="97" width="942" height="919" key="CommitChangelistDialog2/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1583765466055" />
-    <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1583765468093">
+    <state x="519" y="97" width="942" height="919" key="CommitChangelistDialog2/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1583767445490" />
+    <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1583767447782">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1583765468093" />
+    <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1583767447781" />
   </component>
 </project>

@@ -27,6 +27,12 @@ This repository is based on the "Generativ Models and Sampling" course exercises
 [exercise 6](exercise_06)
 - Vector Quantized Variational Autoencoders (VQ-VAE) on grey MNIST with a GatedPixelCNN as a Prior.
 
-# exercise 6
+## exercise 7
 [exercise 7](exercise_07)
 - Vector Quantized Variational Autoencoders (VQ-VAE) on colored MNIST with a GatedPixelCNN as a Prior. One with Batchnormalisation on one without.
+
+## Results
+### VQ VAE with the PixelCNN as Prior
+![vq_vae_pixel_cnn_prior](samples/vq_vae_pixelcnn_prior_samples.png)
+### VQ VAE variance 
+![vq_vae_pixel_cnn_prior](samples/vq_vae_pixelcnn_prior_samples.png)
