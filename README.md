@@ -35,4 +35,4 @@ This repository is based on the "Generativ Models and Sampling" course exercises
 ### VQ VAE with the PixelCNN as Prior
 ![vq_vae_pixel_cnn_prior](samples/vq_vae_pixelcnn_prior_samples.png)
 ### VQ VAE variance 
-![vq_vae_pixel_cnn_prior](samples/vq_vae_pixelcnn_prior_samples.png)
+![vq_vae_pixel_cnn_prior](samples/vq_vae_pixelcnn_prior.png)
