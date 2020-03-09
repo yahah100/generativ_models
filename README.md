@@ -5,11 +5,9 @@ This repository is based on the "Generativ Models and Sampling" course exercises
 [exercise 1](exercise_01)
 - Likelihood of a distribution with two modes
 
-
 ## exercise 2
 [exercise 2](exercise_02)
 - Pixel_CNN of colored MNIST and grey MNIST
-
 
 ## exercise 3
 [exercise 3](exercise_03)
