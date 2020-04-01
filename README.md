@@ -23,7 +23,7 @@ This repository is based on the "Generativ Models and Sampling" course exercises
 - GAN on Colored MNIST
 - GAN on Distributions with multiple modes, which are in a cycle
 
-# exercise 6
+## exercise 6
 [exercise 6](exercise_06)
 - Vector Quantized Variational Autoencoders (VQ-VAE) on grey MNIST with a GatedPixelCNN as a Prior.
 
